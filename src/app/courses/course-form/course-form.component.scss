@@ -1,0 +1,14 @@
+mat-card {
+  max-width: 80%;
+  border-color: grey;
+  margin: 2em auto;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+mat-form-field {
+  width: 100%;
+}
+
+mat-card-actions {
+  justify-content: space-between;
+}
